@@ -1,1 +1,4 @@
 Моя первая практическая работа с Git
+i am beginning to understand git!
+new line
+This text was added to the fi
